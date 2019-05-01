@@ -5,7 +5,7 @@ body {
     width: 960px;
     font-size: 18px;
     text-align: center;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 
 header, nav, section, aside, footer {
@@ -32,17 +32,15 @@ h1, p {
 }
 
 header, nav, footer {
-    width: 800px;
     height: 80px;
 }
 
 #middle {
-    width: 800px;
     position: relative;
 }
 
 section, aside {
-    width: 390px;
+    width: 470px;
 }
 
 header {
